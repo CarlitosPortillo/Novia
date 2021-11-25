@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Nos Caimos y nos volvimos a levantar <3');
+    alert('Ni queria xd ');
 });
 
 const noBtn = document.querySelector('#noBtn');
