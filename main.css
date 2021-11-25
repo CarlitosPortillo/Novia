@@ -2,19 +2,22 @@
     margin: 0;
 }
 .container {
-    background:violet;
     width: 100vw;
     height: 100vh;
     text-align: center;
 }
-
+body {
+    background-image: url('./149f7d2058d6b6a3ac13993ee771024d.jpg');
+}
 h1 {
     font-size: xx-large;
+    font-family: 'calibri';
     padding: 15%;
 }
 
 button {
     font-size: xx-large;
+    font-family: 'calibri';
     padding: 0.75em;
 }
 
@@ -27,4 +30,9 @@ button {
     /* top: 50%;
     left: 0%;
     transform: translate(0%,-50%); */
+}
+p {
+    margin-bottom: 10px;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
